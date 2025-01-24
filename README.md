@@ -25,7 +25,7 @@ RAG-Application-using-LangChain-OpenAI-and-FAISS/
 
 ## Prerequisites
 
-- **Python 3.8+**
+- **Python 3.9+**
 - **Jupyter Notebook**
 - API access to **OpenAI** (an API key is required)
 - The following Python libraries:
