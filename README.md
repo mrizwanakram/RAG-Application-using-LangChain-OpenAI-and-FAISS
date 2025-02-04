@@ -48,7 +48,7 @@ To access OpenAI’s models, you need an API key. Set up your API key in the env
 
 ```python
 import openai
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "your api"
 ```
 
 ### 2. Load Data and Build the FAISS Index
